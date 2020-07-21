@@ -94,7 +94,7 @@ function love.load()
         ['pause'] = love.audio.newSource('pause.wav', 'static'),
 
         -- https://freesound.org/people/xsgianni/sounds/388079/
-        ['music'] = love.audio.newSource('marios_way.mp3', 'static')
+        ['music'] = love.audio.newSource('jojo.mp3', 'static')
     }
 
     -- kick off music
